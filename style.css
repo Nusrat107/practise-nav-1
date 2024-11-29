@@ -22,12 +22,14 @@
 .navbar-nav {
     margin-left: 90px;
     padding-left: 30px;
+    margin-top: 15px;
     
 }
 
 
 .nav-it {
     margin-left: 130px;
+    margin-top: -15px;
   
 }
 
